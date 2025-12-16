@@ -9,7 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: lumalazarini.github.io2.qmd
+      - href: about.qmd
         text: About me
       - href: Research.qmd
         text: Research
