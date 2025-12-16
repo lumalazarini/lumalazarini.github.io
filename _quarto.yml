@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  title: "lumalazarini.github.io2"
+  title: "lumalazarini.github.io"
   
 website:
   title: "Luma Lazarini"
