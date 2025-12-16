@@ -88,7 +88,7 @@
     "href": "courses.html",
     "title": "Courses",
     "section": "",
-    "text": "Statistics for Environmental Science (ENVS 193DS)\nThis course introduced concepts in probability, statistical inference, and hypothesis testing through the lens of environmental science. I learned how to clean, analyze, and visualize data using R and RStudio. I also developed skills in interpreting statistical results, evaluating assumptions, and clearly communicating findings, both visually and in writing, making this course especially relevant for data-driven environmental work. Attached below are some of the types of data visualizations I learned to create.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroundwater Analyses and the Environment (ENVS193 GW)\nThis course introduced the fundamentals of groundwater hydrology, including the hydrologic cycle, aquifer geology, and principles of groundwater flow and storage. I explored groundwater management strategies through California policies, applied quantitative methods to analyze basin conditions, and gained an introduction to ArcGIS for mapping aquifers. Attached below are examples of mapping assignments done in this class."
+    "text": "Statistics for Environmental Science (ENVS 193DS)\nThis course introduced concepts in probability, statistical inference, and hypothesis testing through the lens of environmental science. I learned how to clean, analyze, and visualize data using R and RStudio. I also developed skills in interpreting statistical results, evaluating assumptions, and clearly communicating findings, both visually and in writing, making this course especially relevant for data-driven environmental work. Attached below are some of the types of data visualizations I learned to create.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGroundwater Analyses and the Environment (ENVS193 GW)\nThis course introduced the fundamentals of groundwater hydrology, including the hydrologic cycle, aquifer geology, and principles of groundwater flow and storage. I explored groundwater management strategies through California policies, applied quantitative methods to analyze basin conditions, and gained an introduction to ArcGIS for mapping aquifers. Attached below are examples of mapping assignments done in this class.\n\n\n\n\n\n\n\n\n\n\n\n\nEnvironmental Impact Analysis (ENVS 165A/B)\nThis course examined the theory and practice of environmental impact assessment, with a focus on how environmental impacts are evaluated and documented for proposed projects. It emphasized the legal and policy frameworks governing environmental review in the United States, particularly CEQA and its relationship to NEPA, including the strengths and limitations of these systems in real-world decision-making.\nThrough applied coursework, I conducted CEQA-based environmental review and am developing a full Environmental Impact Report (EIR). This includes analyzing project impacts across air quality, biological resources, noise, land use, transportation, water resources, and cumulative impacts, with an emphasis on clear, structured analysis and defensible conclusions."
   },
   {
     "objectID": "courses.html#groundwater-analyses-and-the-environment-envs193-gw",
@@ -96,5 +96,40 @@
     "title": "Courses",
     "section": "",
     "text": "This course introduced the fundamentals of groundwater hydrology, including the hydrologic cycle, aquifer geology, and principles of groundwater flow and storage. I explored groundwater management strategies through California policies, applied quantitative methods to analyze basin conditions, and gained an introduction to ArcGIS for mapping aquifers."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me: Interests and Hobbies",
+    "section": "",
+    "text": "I started crocheting four years ago as a creative way to unwind and stay present and it’s become one of my favorite pastimes! I enjoy crocheting at the beach, in the park, or during long car and plane rides. Some of the things I’ve made are shirts, bags, and beanies – check out my most recent and ongoing creations below."
+  },
+  {
+    "objectID": "about.html#crocheting",
+    "href": "about.html#crocheting",
+    "title": "About me: Interests and Hobbies",
+    "section": "",
+    "text": "I started crocheting four years ago as a creative way to unwind and stay present and it’s become one of my favorite pastimes! I enjoy crocheting at the beach, in the park, or during long car and plane rides. Some of the things I’ve made are shirts, bags, and beanies – check out my most recent and ongoing creations below."
+  },
+  {
+    "objectID": "about.html#beach",
+    "href": "about.html#beach",
+    "title": "About me: Interests and Hobbies",
+    "section": " Beach",
+    "text": "Beach\nThe beach is my happy place. It’s where I go to clear my mind and unwind from daily stress. In Isla Vista, you’ll often find me at Sands Beach, just a short walk from campus. When I’m home in San Diego, I love going to Windansea or Solana Beach, my favorites of all time."
+  },
+  {
+    "objectID": "about.html#music",
+    "href": "about.html#music",
+    "title": "About me: Interests and Hobbies",
+    "section": " Music",
+    "text": "Music\nMusic is one of my favorite ways to relax, have fun, and stay grounded. I listen to a wide range of music genres, including R&B, jazz, reggae, soft rock, pop, and hip hop. Check out the playlist below to see some of my favorite music."
+  },
+  {
+    "objectID": "about.html#traveling",
+    "href": "about.html#traveling",
+    "title": "About me: Interests and Hobbies",
+    "section": " Traveling",
+    "text": "Traveling\nStudying abroad in Italy during Fall 2024 gave me the opportunity to fulfill a lifelong dream of exploring Europe. I visited unforgettable places like London, Paris, Nice, Croatia, Ibiza, and many cities across Italy. Below is a glimpse into four months of travel across Europe, as well as my spring break trip to Brazil.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCropped flower sweater!\n\n\nFlower patch tote! In progress…\n\n\nCover-up pants! In progress…\n\n\nSands Beach, Isla Vista\n\n\nSolana Beach, San Diego\n\n\nWindansea Beach, San Diego\n\n\nCinque Terre, Italy\n\n\nDubrovnik, Croatia\n\n\nCats in Croatia!\n\n\nAt the top of the Eifell Tower!\n\n\nPalace of Versailles, France\n\n\nVenice, Italy\n\n\nRio de Janeiro, Brazil\n\n\nVitoria, Brazil- My hometown!"
   }
 ]
