@@ -29,3 +29,9 @@ This course introduced the fundamentals of groundwater hydrology, including the 
 
 ![](media/193gw2.jpeg){group="193gw" description=""}
 :::
+
+### Environmental Impact Analysis (ENVS 165A/B)
+
+This course examined the theory and practice of environmental impact assessment, with a focus on how environmental impacts are evaluated and documented for proposed projects. It emphasized the legal and policy frameworks governing environmental review in the United States, particularly CEQA and its relationship to NEPA, including the strengths and limitations of these systems in real-world decision-making.
+
+Through applied coursework, I conducted CEQA-based environmental review and am developing a full Environmental Impact Report (EIR). This includes analyzing project impacts across air quality, biological resources, noise, land use, transportation, water resources, and cumulative impacts, with an emphasis on clear, structured analysis and defensible conclusions.
